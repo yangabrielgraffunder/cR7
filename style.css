@@ -1,0 +1,35 @@
+body{
+    background: black;
+}
+.cristo{
+    position:absolute ;
+    left: 120px;
+    top: 350px;
+    width: 365px;
+}
+.gta{
+    position:absolute ;
+    left: 530px;
+    top: 350px;
+    width: 340px;
+
+}
+.umbra{
+    position:absolute ;
+    left: 900px;
+    top: 350px;
+    width: 360px;
+}
+.tirica{
+    position:absolute ;
+    left: 1300px;
+    top: 350px;
+    width: 350px;
+}
+
+p{
+ color :whitesmoke;  
+}
+h1{
+    color: whitesmoke;
+}
